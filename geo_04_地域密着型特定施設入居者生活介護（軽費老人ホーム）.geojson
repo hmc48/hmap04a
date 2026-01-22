@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "geo_04_地域密着型特定施設入居者生活介護（軽費老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "ケアハウス大谷春圃苑【地域密着型特定施設入居者生活介護（軽費老人ホーム）】宮城県気仙沼市本吉町長根151番地1", "url": "https://www.kaigokensaku.mhlw.go.jp/04/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=490500188-00&ServiceCd=362&Type=search", "url2": "http://syunpo-kai.com/" }, "geometry": { "type": "Point", "coordinates": [ 141.569126889826009, 38.821988087436601 ] } },
+{ "type": "Feature", "properties": { "内容": "ケアハウス登米【地域密着型特定施設入居者生活介護（軽費老人ホーム）】宮城県登米市登米町寺池辺室山27番地2", "url": "https://www.kaigokensaku.mhlw.go.jp/04/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=491200291-00&ServiceCd=362&Type=search", "url2": "http://tome-fukushi.net" }, "geometry": { "type": "Point", "coordinates": [ 141.2727041, 38.6598732 ] } }
+]
+}

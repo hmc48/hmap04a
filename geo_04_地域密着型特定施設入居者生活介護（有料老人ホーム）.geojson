@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "geo_04_地域密着型特定施設入居者生活介護（有料老人ホーム）",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "内容": "土筆の里【地域密着型特定施設入居者生活介護（有料老人ホーム）】宮城県気仙沼市唐桑町小長根１７２－１", "url": "https://www.kaigokensaku.mhlw.go.jp/04/index.php?action_kouhyou_detail_004_kani=true&JigyosyoCd=470500547-00&ServiceCd=361&Type=search", "url2": null }, "geometry": { "type": "Point", "coordinates": [ 141.6586422, 38.8907426 ] } }
+]
+}
